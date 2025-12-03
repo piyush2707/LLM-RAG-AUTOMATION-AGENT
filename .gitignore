@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# Secret/API Keys
+.env
+
+# Vector Store Database (Crucial to ignore the database of embeddings)
+vector_store/
+
+# General OS files
+*~
