@@ -1,0 +1,13 @@
+# FastAPI and ASGI Server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0.post1
+
+# LLM and RAG Frameworks
+langchain==0.0.340
+pypdf==3.17.1
+openai==1.3.5
+python-dotenv==1.0.0
+
+# Vector Store (Local and simple for a quick start)
+chromadb==0.4.15
+tiktoken==0.5.1
